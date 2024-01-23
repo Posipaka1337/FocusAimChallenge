@@ -13,5 +13,5 @@ FocusAimChallenge is a project designed to train attention and reaction accuracy
 ## How to Play
 
 1. **Clone the repository:**
-   `bash
+   ```bash
    git clone https://github.com/Posipaka1337/FocusAimChallenge.git
